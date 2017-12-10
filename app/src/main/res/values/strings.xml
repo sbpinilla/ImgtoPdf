@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ImgToPdf</string>
+
+    <string name="str_bar_tool">Generar PDF</string>
+
+    <string name="str_camara">Camara</string>
+    <string name="str_galeria">Galeria</string>
+    <string name="str_img_seleccionadas">Imagenes Seleccionadas</string>
+
+
+</resources>
